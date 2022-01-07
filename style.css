@@ -1,0 +1,9 @@
+body{
+    background-color: aquamarine;
+    text-align: center;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.205),rgba(0, 0, 0, 0.178)),url(background.jpg);
+    background-size: cover;
+}
+.text{
+    color: blue;
+}
